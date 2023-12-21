@@ -1,6 +1,7 @@
 import radio
 from microbit import *
 
+#This code was created in 2023 by Yassir Chennaoui and Jugharta Gaci---Unamur 
 # definition of functions
 
 def aim(loc_X, loc_Y):
